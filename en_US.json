@@ -1,0 +1,9 @@
+{
+	"name": "English",
+	"localeCode": "en_US",
+	"values": {
+		"language.key": "Key here",
+		"message.languageapi.updated": "§eLanguage | §7Du hast deine §eSprache §7auf #0# gesetzt."
+		"server.join.message": "§bRusherLabs.NET | §7Welcome on the Network!:)"
+	}
+}
