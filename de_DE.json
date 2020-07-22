@@ -1,0 +1,8 @@
+{
+	"name": "Deutsch",
+	"localeCode": "de_DE",
+	"values": {
+		"language.key": "Key here",
+		"message.languageapi.updated": "Du hast deine Sprache auf #0# gesetzt."
+	}
+}
