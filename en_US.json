@@ -3,7 +3,7 @@
 	"localeCode": "en_US",
 	"values": {
 		"language.key": "Key here",
-		"message.languageapi.updated": "§eLanguage | §7You changed your §eLanguage§7 to #0#.",
+		"message.languageapi.updated": "§eLanguage §7| §7You changed your §eLanguage§7 to #0#.",
 		"server.join.message": "§bRusherLabs.NET | §7Welcome on the Network!:)"
 	}
 }
